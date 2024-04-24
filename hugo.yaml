@@ -12,6 +12,9 @@ enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts"]
 
+permalinks:
+  posts: "/:title/"
+
 languages:
   en:
     languageName: "English"
@@ -40,3 +43,6 @@ languages:
         - name: Github
           url: https://github.com/Heming-Zhong
           weight: 6
+    params:
+      defaultTheme: auto
+      hideSummary: true
