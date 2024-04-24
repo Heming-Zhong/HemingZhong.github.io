@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bioinformatics on ZHM.net</title>
+    <link>http://localhost:1313/categories/bioinformatics/</link>
+    <description>Recent content in Bioinformatics on ZHM.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Apr 2024 20:25:42 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy GATK HaplotypeCaller on Spark Cluster</title>
+      <link>http://localhost:1313/posts/gatk-hc-on-spark-cluster/</link>
+      <pubDate>Tue, 02 Apr 2024 20:25:42 +0800</pubDate>
+      <guid>http://localhost:1313/posts/gatk-hc-on-spark-cluster/</guid>
+      <description>ShowToc = true TocOpen = true
+Introduction This post comes from my experience in my work to optimize GATK HC performance on HPC clusters. To evalute the relative speedup of my own work, I also need to setup GATK HC on Spark clusters as baseline.
+What&amp;rsquo;s GATK HaplotypeCaller? This post assumes that you have the knowledge about GATK and genomics variant calling process, so I will only introduce its background in brief.</description>
+    </item>
+  </channel>
+</rss>

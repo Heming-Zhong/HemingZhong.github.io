@@ -1,0 +1,42 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: ZHM.net
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: Posts
+          url: posts/
+          weight: 2
+        - name: Categories
+          url: categories/
+          weight: 3
+        - name: Search
+          url: search/
+          weight: 4
+        - name: About
+          url: about
+          weight: 5
+        - name: Github
+          url: https://github.com/Heming-Zhong
+          weight: 6
