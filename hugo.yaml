@@ -1,5 +1,4 @@
 baseURL: https://example.org/
-languageCode: en-us
 title: ZHM.net
 theme: ["PaperMod"]
 
@@ -18,6 +17,7 @@ permalinks:
 languages:
   en:
     languageName: "English"
+    languageCode: en-us
     weight: 1
     taxonomies:
       category: categories
@@ -38,6 +38,37 @@ languages:
           url: search/
           weight: 4
         - name: About
+          url: about
+          weight: 5
+        - name: Github
+          url: https://github.com/Heming-Zhong
+          weight: 6
+    params:
+      defaultTheme: auto
+      hideSummary: true
+  zh:
+    languageName: "简体中文"
+    languageCode: zh-Hans
+    weight: 2
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: 主页
+          url: /
+          weight: 1
+        - name: 博客
+          url: posts/
+          weight: 2
+        - name: 分类
+          url: categories/
+          weight: 3
+        - name: 搜索
+          url: search/
+          weight: 4
+        - name: 关于
           url: about
           weight: 5
         - name: Github
