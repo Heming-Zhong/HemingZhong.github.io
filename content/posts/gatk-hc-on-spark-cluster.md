@@ -2,7 +2,7 @@
 title = 'Deploy GATK HaplotypeCaller on Spark Cluster'
 date = 2024-04-02T20:25:42+08:00
 categories = ["Infrasture", "Bioinformatics"]
-draft = false
+draft = true
 ShowToc = true
 TocOpen = true
 +++
