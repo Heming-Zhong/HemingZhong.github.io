@@ -80,3 +80,13 @@ languages:
     params:
       defaultTheme: auto
       hideSummary: true
+  
+  # needed to ensure different manifestations of the site work. 
+outputs:
+  home:
+  # To create webpages. 
+    - HTML
+  # To create RSS Feed
+    - RSS
+  # To create an index.json so search works on the site
+    - JSON
