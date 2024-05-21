@@ -14,6 +14,9 @@ mainsections: ["posts"]
 permalinks:
   posts: "/:title/"
 
+minify:
+  disableXML: true
+
 languages:
   en:
     languageName: "English"

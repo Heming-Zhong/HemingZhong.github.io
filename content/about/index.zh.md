@@ -1,41 +1,41 @@
 +++
-title = 'About'
+title = '自我介绍'
 date = 2024-04-02T16:23:04+08:00
 ShowReadingTime = false 
 ShowWordCount = false
 draft = false
 +++
 
-## Who am I?
+## 我是谁?
 
-I am currently pursuing a Master's degree in Computer Science at Sun Yat-sen University. My current research direction is Computer Architecture and High-performance Computing. I started this blog as a platform to introduce myself and share my knowledge.
+截止本文完成时，我是中山大学计算机学院的一名在读硕士研究生。我目前的研究方向是计算机体系结构与高性能计算。
 
-## Working Experience
+## 实习/工作经历
 
-iOS Middleware Developer Intern @ [ByteDance](https://www.bytedance.com/en/) (2021.7-2021.9)
+iOS中台开发实习 @ [字节跳动](https://www.bytedance.com/en/) (2021.7-2021.9)
 
-## Education 
+## 教育经历
 
-**[Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/)**
+**[中山大学](https://www.sysu.edu.cn/sysuen/)**
 
-Bachelor of Computer Science and Technology (2022)
+学士学位：计算机科学与技术 (2022)
 
-## Skills
+## 技能汇总
 
-**Programming**: C/C++, Objective-C, CUDA, Python, Swift;
+**编程**: C/C++, Objective-C, CUDA, Python, Swift;
 
-**Web**: CSS, Javascript, Vue, Webpack;
+**Web开发**: CSS, Javascript, Vue, Webpack;
 
-**Infrastructure**: Kubernetes, POSIX IO;
+**架构**: Kubernetes, POSIX IO;
 
-**Frontend**: iOS/macOS App, Electron App;
+**前端开发**: iOS/macOS客户端, Electron客户端;
 
 **HPC**: CUDA, HIP, MPI, OpenMP;
 
-## Projects
+## 项目
 
-My overall project experience. Only some of the projects are open-source.
+我当前的开发/研究项目经历。其中一部分在我的github账号下开源。
 
-1. [marknote](https://github.com/Heming-Zhong/marknote): A markdown editing application designed for iPadOS and written in SwitfUI;
-2. multi-tier-io-cache: A hierarchical file data cache middleware to accelerate IO-intensive workloads on HPC infrastructures. This middleware enables POSIX level system call interception to be deployed in user space. 
+1. [marknote](https://github.com/Heming-Zhong/marknote): 一个为iPadOS开发适配的，所见即所得的Markdown编辑App。使用SwiftUI编写。
+2. multi-tier-io-cache: 一个层次化文件数据IO缓存中间件，用于加速HPC应用中的IO密集型工作负载。这个中间件实现了POSIX层面的底层IO调用拦截，并能够以用户态进行部署
 
