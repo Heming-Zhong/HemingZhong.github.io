@@ -54,9 +54,9 @@ languages:
     languageCode: zh-Hans
     weight: 2
     taxonomies:
-      category: categories
-      tag: tags
-      series: series
+      category: ZHcategories
+      tag: ZHtags
+      series: ZHseries
     menu:
       main:
         - name: 主页
@@ -66,7 +66,7 @@ languages:
           url: posts/
           weight: 2
         - name: 分类
-          url: categories/
+          url: zhcategories/
           weight: 3
         - name: 搜索
           url: search/
