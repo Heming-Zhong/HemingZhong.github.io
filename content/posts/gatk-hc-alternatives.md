@@ -2,7 +2,7 @@
 title = 'GATK HaplotypeCaller Opensource Alternatives'
 date = 2024-07-02T20:25:42+08:00
 categories = ["Infrasture", "Bioinformatics", "applications"]
-draft = true
+draft = false
 ShowToc = true
 TocOpen = true
 +++
