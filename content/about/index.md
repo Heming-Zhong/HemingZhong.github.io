@@ -8,7 +8,7 @@ draft = false
 
 ## Who am I?
 
-I am currently pursuing a Master's degree in Computer Science at Sun Yat-sen University. My current research direction is Computer Architecture and High-performance Computing. I started this blog as a platform to introduce myself and share my knowledge.
+I am currently pursuing a Master's degree in Computer Technology at Sun Yat-sen University. My current research direction is Computer Architecture and High-performance Computing. I started this blog as a platform to introduce myself and share my knowledge.
 
 ## Working Experience
 
@@ -18,7 +18,11 @@ iOS Middleware Developer Intern @ [ByteDance](https://www.bytedance.com/en/) (20
 
 **[Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/)**
 
-Bachelor of Computer Science and Technology (2022)
+Bachelor of Computer Science and Technology (2018-2022)
+
+**[Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/)**
+
+Master of Computer Technology (2022-Present)
 
 ## Skills
 
@@ -37,5 +41,7 @@ Bachelor of Computer Science and Technology (2022)
 My overall project experience. Only some of the projects are open-source.
 
 1. [marknote](https://github.com/Heming-Zhong/marknote): A markdown editing application designed for iPadOS and written in SwitfUI;
-2. multi-tier-io-cache: A hierarchical file data cache middleware to accelerate IO-intensive workloads on HPC infrastructures. This middleware enables POSIX level system call interception to be deployed in user space. 
+2. Pair-HMM-FA-GPU: GPU accelerated Pair Hidden Markov Model Forwarding Algorithm;
+3. multi-tier-io-cache: A hierarchical file data cache middleware to accelerate IO-intensive workloads on HPC infrastructures. This middleware enables POSIX level system call interception to be deployed in user space. 
+4. HeteroHC: Data-driven acelerated HaplotypeCaller prototype on scalable heterogenous clusters.
 
